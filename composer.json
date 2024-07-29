@@ -1,0 +1,20 @@
+{
+    "name": "ricdpaula/telaflix",
+    "description": "Tenha acesso a maior biblioteca de filmes",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Ricdpaula\\Telaflix\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ricpaula",
+            "email": "cadodepaulasilva159@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
